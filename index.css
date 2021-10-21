@@ -1,0 +1,86 @@
+body,
+html {
+  margin: 0px;
+  border: 0px;
+}
+.web {
+  position: absolute;
+  top: 400px;
+  right: 180px;
+  z-index: 6;
+}
+.acrtext {
+  position: absolute;
+  top: 440px;
+  right: 160px;
+  z-index: 6;
+  width: 240px;
+  height: 300px;
+  line-height: 15px;
+}
+
+.Acr {
+  position: absolute;
+  top: 400px;
+  right: 150px;
+  z-index: 5;
+}
+.head {
+  position: absolute;
+  top: 50px;
+  left: 700px;
+  z-index: 5;
+}
+.logo {
+  position: absolute;
+  top: 60px;
+  left: 400px;
+  z-index: 5;
+}
+.products-list-green {
+  position: absolute;
+  bottom: 300px;
+  left: 600px;
+  z-index: 5;
+}
+.products-list-提示手 {
+  position: absolute;
+  bottom: 260px;
+  left: 900px;
+  z-index: 6;
+}
+.btn {
+  position: absolute;
+  top: 50px;
+  left: 100px;
+  z-index: 5;
+}
+.upload {
+  position: absolute;
+  top: 400px;
+  left: 330px;
+  z-index: 4;
+}
+.change {
+  position: absolute;
+  top: 400px;
+  left: 50px;
+  z-index: 3;
+}
+.Stall-image-green {
+  z-index: 2;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.background {
+  z-index: 1;
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+/* .logo {
+  position: relative;
+  top: 100px;
+} */
