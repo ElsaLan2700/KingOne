@@ -6,13 +6,13 @@ html {
 .web {
   position: absolute;
   top: 400px;
-  right: 180px;
+  left: 1300px;
   z-index: 6;
 }
 .acrtext {
   position: absolute;
   top: 440px;
-  right: 160px;
+  left: 1130px;
   z-index: 6;
   width: 240px;
   height: 300px;
@@ -22,7 +22,7 @@ html {
 .Acr {
   position: absolute;
   top: 400px;
-  right: 150px;
+  left: 1110px;
   z-index: 5;
 }
 .head {
@@ -39,13 +39,13 @@ html {
 }
 .products-list-green {
   position: absolute;
-  bottom: 300px;
+  top: 1000px;
   left: 600px;
   z-index: 5;
 }
 .products-list-提示手 {
   position: absolute;
-  bottom: 260px;
+  top: 1050px;
   left: 900px;
   z-index: 6;
 }
